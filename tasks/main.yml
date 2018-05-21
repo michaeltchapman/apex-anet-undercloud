@@ -1,5 +1,5 @@
 ---
 
-name: debug
-debug:
-  msg: "hello from undercloud"
+- name: debug
+- debug:
+    msg: "hello from undercloud"
